@@ -1,5 +1,5 @@
 
-# 🚀 Day 2 – Advanced DevOps Engineer Roadmap
+# 🚀 Day 2 – linux
 
 ## 🧠 Focus: Linux, Ubuntu CLI & WSL (Windows Subsystem for Linux)
 
